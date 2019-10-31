@@ -1,2 +1,0 @@
-udpex.ServerUDPEx2
-udp_Ex2_String.Server
